@@ -2,4 +2,4 @@
 
 Uses machine learning to predict whether you should buy or sell on forex exchanges.
 
-Requires /data/ folder with downloaded forex data.
+Requires /data/ folder with downloaded forex data from Yahoo Finance.
